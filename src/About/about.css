@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&family=Rubik:ital@1&display=swap');
+.conAbout{
+    width: 80%;
+    height: 606px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 120px;
+}
+
+.about_img{
+    position: relative;
+}
+.rasm2{
+    position: absolute;
+    top: 446px;
+    left: 318px;
+
+}
+.About{
+    padding-left: 80px;
+}
+.about1{
+    display: flex;
+}
+.firstp{
+    padding-bottom: 10px;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #02012B;
+
+}
+.About h1{
+    padding-bottom: 24px;
+    margin: 0;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 61px;
+color: #222222;
+}
+
+.secondp{
+    padding-bottom: 40px;
+    margin: 0;
+    width: 479px;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* or 135% */
+
+
+color: #555555;
+}
+.aboutbtn{
+    width: 169px;
+height: 56px;
+left: 744px;
+top: 1452px;
+margin-top: 40px;
+/* Real estate4/Primary/Blue */
+border: none;
+background: #19BCE4;
+border-radius: 6px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+color: #FFFFFF;
+}
+.conAbout1 p{
+    padding-top: 16px;
+    margin: 0;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #555555;
+    
+}
+.conAbout1 h3{
+    padding-top: 24px;
+    margin: 0;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 28px;
+
+color: #222222;
+
+}
