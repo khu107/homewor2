@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&family=Rubik:ital@1&display=swap');
+.content{
+    width: 100%;
+    height: 800px;
+    background: #F8FDFE;
+    
+}
+.con-item{
+    padding-bottom: 68px;
+    display: flex;
+}
+.left{
+    padding-left: 140px;
+}
+
+.cart-con{
+    margin-bottom: 16px;
+    width: 541px;
+    height: 118px;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    margin-left: 51px;
+}
+.left-cart{
+    padding-left: 24px;
+}
+.right-cart{
+    padding-left: 29px;
+}
+.cart-title{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+margin: 0;
+
+color: #222222;
+}
+.cart-desc{
+    
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #555555;
+
+}
+.cont-title{
+    padding-left: 144px;
+}
+.cont-title p{
+    padding-top: 75px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 61px;
+/* identical to box height, or 127% */
+
+
+color: #222222;
+}
