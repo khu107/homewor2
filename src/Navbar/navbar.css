@@ -34,11 +34,21 @@
     grid-gap: 40px;
 }
 .menu h3{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+
+
+    color: #02012B;
     cursor: pointer;
     
 }
 .menu h3:hover{
     color: #19bce4;
+    
 }
 .loginButton{
     width: 96px;
