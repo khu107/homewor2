@@ -4,6 +4,8 @@ import Content from './Content/Content';
 import Most from './Most/Most';
 import Navbar from './Navbar/Navbar';
 import Opener from './Opener/Opener';
+import What from './What/What';
+import Who from './Who/Who';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <About />
       <Content />
       <Most />
+      <Who />
+      <What />
     </div>
   );
 }

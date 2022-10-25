@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&family=Rubik:wght@500;700&display=swap');
+.who-con{
+    width: 99.9%;
+    height: 550px;
+    
+    background: #F8FDFE;
+    margin-top: 120px;
+    display: flex;
+}
+
+.who-img{
+    width: 672px;
+    height: 549px;
+    
+}
+.who-tit{
+    margin: 0;
+    padding-top: 93px;
+    padding-left: 135px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    color: #222222;
+
+}
+.who-dec{
+    padding-top: 20px;
+    padding-left: 135px;
+    margin: 0;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #555555;
+}
+.who-btn{
+    margin-top: 40px;
+    margin-left: 135px;
+    background: #19BCE4;
+    border-radius: 6px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    border: none;
+    width: 190px;
+    height: 56px;
+    color: #FFFFFF;
+
+}
